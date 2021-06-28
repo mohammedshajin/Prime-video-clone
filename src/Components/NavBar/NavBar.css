@@ -1,0 +1,44 @@
+.navbar{
+    background-color: #0f171e;
+    margin: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 200;
+    padding: 0;
+    color: rgba(242,244,246,.9);
+    display: block;
+    box-sizing: border-box;
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    cursor: default;
+    height: 76px;
+    font-size: 17px;
+    line-height: 24px;
+ 
+}
+
+.navitems{
+    width: 74%;
+    height: auto;
+    margin: 0 auto;
+    padding: 24px;
+    position: relative;
+    
+    
+}
+
+.navitems span{
+    font-weight: 610;
+    left: 50px;
+    padding: 8px;
+}
+
+.logo{
+    padding: 20px;
+    position: fixed;
+    left: 30px;
+    width: 112px;
+}
+
