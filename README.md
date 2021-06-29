@@ -1,3 +1,9 @@
+# Prime Video Clone
+
+Amazon Prime Video clone built with React
+
+![](images/prime.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
