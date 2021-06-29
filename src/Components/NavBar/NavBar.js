@@ -1,5 +1,6 @@
 import React from 'react'
 import './NavBar.css' 
+import Search from '../../assets/Search';
 
 function NavBar() {
     return (
@@ -10,7 +11,15 @@ function NavBar() {
             <span>Tv Shows</span>
             <span>Movies</span>
             <span>Kids</span>
+            <div className="placeSearch">
+            <Search fill="#b9bbbf" ></Search>
+            <input placeholder=" Search" className="navsearch" type="text" />
             </div>
+            <img className="avatar" src="https://m.media-amazon.com/images/G/02/CerberusPrimeVideo-FN38FSBD/adult-1.png" alt="avatar" />
+            
+            </div>
+            
+          
             
         </div>
     )
